@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+joblib
+reportlab
+streamlit
+folium
+streamlit-folium
+fpdf
