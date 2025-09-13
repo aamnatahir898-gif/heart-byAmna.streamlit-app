@@ -7,3 +7,4 @@ streamlit
 folium
 streamlit-folium
 fpdf
+plotly.graph_objects
